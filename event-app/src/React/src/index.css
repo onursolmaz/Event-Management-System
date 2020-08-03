@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+#root{
+    font-family: 'Inconsolata', monospace;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+}
+
+.alertify-notifier .ajs-message.ajs-error {
+    color: #fff;
+}
